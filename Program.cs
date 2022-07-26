@@ -14,7 +14,7 @@ namespace ForVlad
             ja.ToThinth();
             ja.ToUpHeand();
 
-            Console.WriteLine(ja.Age.ToString(), ja.Growth, ja.Name, ja.SerName, ja.Weight);
+            Console.WriteLine(ja.Age.ToString(), ja.Growth, ja.Name, ja.SerName, ja.Weight); 
 
             Console.ReadKey();
         }
